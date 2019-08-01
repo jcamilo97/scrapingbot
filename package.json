@@ -1,0 +1,28 @@
+{
+  "name": "scrapingbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcamilo97/scrapingbot.git"
+  },
+  "keywords": [
+    "scraping",
+    "nodejs",
+    "puppeteer"
+  ],
+  "author": "camilo caviedes (jcamilo97)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcamilo97/scrapingbot/issues"
+  },
+  "homepage": "https://github.com/jcamilo97/scrapingbot#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
